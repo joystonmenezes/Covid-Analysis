@@ -1,3 +1,2 @@
-# Covid-Analysis
-
-This repository is covid data anlysis with machine learning in progress
+# Movie-analysis
+This repository is Movie data analysis with machine learning in progress
