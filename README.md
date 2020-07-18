@@ -1,5 +1,5 @@
 # Movie-analysis
-Sentiment analysis is a very popular technique in Natural Language Processing. We can see it applied to get the polarity of social network posts, movie reviews, or even books.
+MACHINE LEARNING is a very popular technique in Natural Language Processing. We can see it applied to get the polarity of social network posts, movie reviews, or even books.
 
 However basic sentiment analysis can be limited, as we lack precision in the evoked subject.
 
